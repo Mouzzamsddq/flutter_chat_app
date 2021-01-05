@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 
+// Hello This is my first flutter project
+
 const String _name = "Mouzzam";
 class ChatMessage extends StatelessWidget {
   String text;
